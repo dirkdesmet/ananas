@@ -1,0 +1,23 @@
+.icon-arrow-down{
+    @include icon("../img/icon_arrow_down.svg")
+}
+
+.icon-calendar{
+    @include icon("../img/icon_calendar.svg")
+}
+
+.icon-check{
+    @include icon("../img/icon_check.svg")
+}
+
+.icon-location{
+    @include icon("../img/icon_location.svg")
+}
+
+.icon-mail{
+    @include icon("../img/icon_mail.svg")
+}
+
+.icon-mobile{
+    @include icon("../img/icon_mobile.svg")
+}

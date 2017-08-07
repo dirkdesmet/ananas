@@ -1,0 +1,12 @@
+@mixin icon($img) {
+    &:before {
+        content: "";
+        display: inline-block;
+        width: 15px;
+        height: 15px;
+        background: url($img) center / auto no-repeat transparent;
+        margin-right: 10px;
+        position: relative;
+        top: 3px;
+    }
+}

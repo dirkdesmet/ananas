@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="80" height="82">
+	<defs>
+		<clipPath id="clip_0">
+			<rect x="-442" y="-788" width="1440" height="3318" clip-rule="evenodd"/>
+		</clipPath>
+	</defs>
+	<g clip-path="url(#clip_0)">
+		<path fill="rgb(255,255,255)" stroke="none" transform="translate(31.1864 25.9667)" d="M25.5305 14.6717L0 29.3433L0 0L25.5305 14.6717Z"/>
+	</g>
+	<defs>
+		<clipPath id="clip_1">
+			<rect x="-442" y="-788" width="1440" height="3318" clip-rule="evenodd"/>
+		</clipPath>
+	</defs>
+	<g clip-path="url(#clip_1)">
+		<path fill="none" stroke="rgb(255,255,255)" stroke-width="2" stroke-miterlimit="4" transform="translate(31.1864 25.9667)" d="M25.5305 14.6717L0 29.3433L0 0L25.5305 14.6717Z"/>
+	</g>
+	<defs>
+		<clipPath id="clip_2">
+			<rect x="-442" y="-788" width="1440" height="3318" clip-rule="evenodd"/>
+		</clipPath>
+	</defs>
+	<g clip-path="url(#clip_2)">
+		<path fill="none" stroke="rgb(255,255,255)" stroke-width="2" stroke-miterlimit="4" d="M39.9608 81.2584C62.0306 81.2584 79.9217 63.0681 79.9217 40.6292C79.9217 18.1903 62.0306 0 39.9608 0C17.8911 0 0 18.1903 0 40.6292C0 63.0681 17.8911 81.2584 39.9608 81.2584Z"/>
+	</g>
+</svg>
