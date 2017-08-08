@@ -537,51 +537,59 @@ body {
         }
     }
 
-    & > footer{
+    & > footer {
         padding: 55px 0 130px;
         @media screen and (max-width: 992px) {
             padding: 35px 0;
         }
-        .row:first-of-type{
+
+        .row:first-of-type {
             margin-bottom: 20px;
-            & > div{
+
+            & > div {
                 @media screen and (max-width: 768px) {
                     text-align: center;
                 }
             }
         }
+
         .row:last-of-type {
-            & > div{
+            & > div {
                 @media screen and (max-width: 320px) {
-                    display:block;
-                    width:100%;
+                    display: block;
+                    width: 100%;
                     text-align: center;
                 }
             }
-            & > div:nth-of-type(2){
-                ul li:not(.icon-location):not(.icon-mobile):not(.icon-mail){
+
+            & > div:nth-of-type(2) {
+                ul li:not(.icon-location):not(.icon-mobile):not(.icon-mail) {
                     padding-left: 29px;
                 }
                 @media screen and (max-width: 768px) {
-                    margin-bottom:20px;
+                    margin-bottom: 20px;
                 }
             }
+
             & > div:last-of-type {
                 @media screen and (max-width: 768px) {
                     text-align: center;
-                    margin-top:20px;
-                    & ul{
-                        display:inline-block;
+                    margin-top: 20px;
+
+                    & ul {
+                        display: inline-block;
                     }
                 }
-                ul{
-                    li{
+
+                ul {
+                    li {
                         float: left;
                         margin-right: 4px;
                     }
                 }
             }
         }
+
         logo {
             font-family: $logoFont;
             font-size: 37px;
@@ -603,23 +611,26 @@ body {
             }
         }
 
-        h3{
+        h3 {
             font-size: 15px;
             color: $semiBlack;
             text-transform: uppercase;
         }
 
-        ul{
+        ul {
             list-style-type: none;
-            padding:0;
-            li{
+            padding: 0;
+
+            li {
                 font-size: 15px;
                 color: $semiBlack;
                 line-height: 30px;
-                a{
+
+                a {
                     color: $semiBlack;
                     text-decoration: none;
-                    &:hover{
+
+                    &:hover {
                         color: $semiBlack;
                         text-decoration: underline;
                     }

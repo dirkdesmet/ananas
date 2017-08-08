@@ -30,9 +30,9 @@ module.exports = {
     ],
     module: {
         rules: [{
-			test: /\.jpe?g$|\.png$|\.gif$/,
-			loader: 'file-loader?name=/img/[name].[ext]'
-		},{
+            test: /\.jpe?g$|\.png$|\.gif$/,
+            loader: 'file-loader?name=/img/[name].[ext]'
+        }, {
             test: /\.woff2?$|\.ttf$|\.eot$|\.svg$/,
             loader: 'url-loader'
         }, {
