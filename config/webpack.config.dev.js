@@ -51,7 +51,8 @@ module.exports = {
         inline: true,
         open: true,
         openPage: '',
-        host: '192.168.1.114',
+        // Uncomment & adapt IP below, if you want to debug on other devices in the same network
+        // host: '192.168.1.115',
         port: 8080
     }
 };
